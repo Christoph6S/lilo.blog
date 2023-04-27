@@ -1,7 +1,7 @@
 +++
 title = "Si les étudiants n'étaient pas là"
 date = "2023-04-27"
-draft = true
+draft = false
 pinned = false
 tags = ["Helvetiaplatz", "Cartepostalesonore"]
 +++
