@@ -1,7 +1,7 @@
 +++
 title = "Ist es der Knall wert?"
 date = "2023-04-28"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "bild5.jpg"
