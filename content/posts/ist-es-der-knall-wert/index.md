@@ -4,6 +4,7 @@ date = "2023-04-28"
 draft = true
 pinned = false
 tags = ["Deutsch", "Reportage"]
+image = "bild5.jpg"
 description = "\n"
 +++
 **Jedes Jahr am Ersten August gibt es in der Schweiz eine beobachtbar ansteigende Zahl an toten Tieren, die in jeder Umgebung, sei es in der Stadt, auf der Strassen, oder im Wald gefunden werden. Daran sind offensichtlich diese Feuerwerke, diese Böller und vor allem diese unverantwortlichen Knall-Fanatiker Schuld, oder?
