@@ -3,6 +3,7 @@ title = "Ist es der Knall wert?"
 date = "2023-04-28"
 draft = true
 pinned = false
+tags = ["Deutsch", "Reportage"]
 description = "Jedes Jahr am Ersten August gibt es in der Schweiz eine beobachtbar ansteigende Zahl an toten Tieren, die in jeder Umgebung, sei es in der Stadt, auf der Strassen, oder im Wald gefunden werden. Daran sind offensichtlich diese Feuerwerke, diese Böller und vor allem diese unverantwortlichen Knall-Fanatiker Schuld, oder?\nIst es in der heutigen Zeit noch vertretbar, Sprengstoff zur puren Eigenbelustigung zu verwenden – ist es egoistisch, oder ein gerechtfertigtes Bedürfnis?\n\n"
 +++
 **Feuerwerksgeschichte**\
