@@ -26,7 +26,7 @@ Doch für einige Menschen ist Feuerwerk nicht nur eine Tradition, sie lieben das
 **Opfer oder Simulant**\
 Edith S. hält ihre Katze Detlef in den Armen und streichelt sie zärtlich, während sie sich über die jährliche «Katastrophe», die sie und ihre Katzen erleiden müssen, beschwert. Die andere Katze Honeyball liegt im Bürozimmer und schläft friedlich. Sie verstehe keinen Menschen, der nur im Ansatz das Tierwohl hinter das Vergnügen der Knallerei stellt. Sie kann kein Verständnis und Empathie gegenüber diesen Menschen zeigen. Eigentlich lebt sie in einem ruhigen Quartier, aber jedes Jahr am 1. August verwandelt sich dieser Ort in einen akustischen Kriegsschauplatz. 
 
-![]()
+![Abbildung 2: Honeyball auf dem Sofa, Foto Christoph Schmocker]()
 
 
 «Ich bin ganz klar dagegen, denn an Silvester haben sie dermassen geknallt, dass meine zwei Katzen verstört im Gang auf dem Teppich lagen, wo sie sonst nie liegen würden. Es war ihnen definitiv nicht wohl gewesen, sie sind nicht weggerannt, oder haben sich im Keller versteckt, aber beide auf dem Teppich liegend habe ich noch nie gesehen. Ich hätte sie in dieser Stresssituation auch nicht in den Arm genommen, die kennen mich gut, aber ich bin mir nicht sicher, ob sie mich nicht gekratzt, oder gebissen hätten. Ich hätte ihnen ja den Fluchtweg versperrt.», sagte sie in klagendem Ton. 
@@ -39,13 +39,13 @@ Andere Hundebesitzer, wie ihre Nachbarsfamilie, würden über die Tage um den 1.
 Es litten aber nicht nur die Tiere, ihre Nachbarin hatte einen Sohn, der geistig beeinträchtigt war und auch nicht selbständig leben konnte. Ihre eigenen Zwillinge hatten im August Geburtstag, als der Nachbarssohn zu Hause zu Besuch war. Zur Feier für die Kinder holte sie übrig gebliebene Zuckerstöcke und jagte dem armen Nachbar unwissend Panik ein. Seine Mutter kam sofort, und bat sie aufzuhören.
 Für ein Verbot sei sie nicht, denn früher und unwissend ging sie gerne das Feuerwerk am Gurten schauen, ausserdem verbiete sie nicht gerne Sachen. “Zuerst aufklären, dann schauen, ob es was bringt, wenn es nichts bringt, dann könnte man ein Verbot überlegen.”, sagte sie dazu.
 
-![]()
+![Abbildung 3: Ladenbesitzer Hanspeter Krieg, Foto Christoph Schmocker]()
 
 Ganz anderer Meinung ist Hanspeter Krieg. Er ist seit 5 Jahren stolzer Besitzer des Feuerwerkladens Knallfred in der Berner Innenstadt und beschäftigt sich schon seit seiner frühen Jugend mit Feuerwerken. Heute ist er ein Experte in diesem Gebiet, berät und verkauft täglich Feuerwerk. Hanspeter ist klar gegen ein Feuerwerksverbot, und findet das Abbrennen von Feuerwerkskörpern bedenkenlos. «Feuerwerke sind genau wie Autofahren, wie alles andere, dass auch Tierleid verursachen kann.», sagte Hanspeter mit der Betonung auf der Eigenverantwortung beim Abrennen von Feuerwerkskörpern. Ein Feuerwerksverbot wäre für ihn unverständlich: «Ich würde ein Verbot vor allem nicht begreifen, also ich könnte es mir nicht vorstellen.»
 
-![]()
+![Abbildung 4: «Knallfred» im Berner Monbijou, Foto Christoph Schmocker]()
 
-![]()
+![Abbildung 5: «Knallfred» von innen, Foto Christoph Schmocker]()
 
 **Chemie des Feuerwerks**
 Die meisten Feuerwerkskörper enthalten für die Detonation Schwarzpulver (Kaliumnitrat, Kohle, Schwefel). Jedoch werden bei grossen Raketen, Batterien, oder vor allem bei Gross-Feuerwerk häufig auch Blitzknallsätze verwendet, sie bestehen jeweils aus einem Oxidationsmittel (gibt Sauerstoff ab) und einem Reduktionsmittel (verbraucht den Sauerstoff). Die meistverwendete Mischung in der Pyrotechnik besteht aus Kaliumperchlorat und Aluminiumpulver. Alternativ kommen auch Magnesium und diverse Nitrate und Chlorate als Oxidationsmittel vor. (27.04.2023) in:(https://www.chemie.de/lexikon/Pyrotechnischer_Satz.html)
@@ -56,4 +56,4 @@ Wie laut ein Knall ist, hängt nicht nur von der Menge des Sprengstoffs ab, sond
 Jeweils vor und nach dem 1. August sowie um Silvester herum, wird häufig über ein generelles Feuerwerksverbot diskutiert. Aktuell läuft eine Unterschriften Sammlung für eine Volksinitiative für eine Einschränkung von Feuerwerk. In Zentren vieler Schweizer Grossstädten gilt schon länger ein Feuerwerksverbot. 
 Doch trotz all den negativen Schlagzeilen und den Menschen, die sich für ein Feuerwerksverbot einsetzen, wird es voraussichtlich in den nächsten Jahren kein generelles Feuerwerksverbot in der Schweiz geben. Die Unterschriften Sammlung bekundet auch eher Mühe, die notwendigen 100'000 Unterschriften zu sammeln. Viele Schweizer Stimmbürger sind offenbar trotzdem der Meinung, dass man zweimal im Jahr Feuerwerk zünden darf, wenn man die Überbleibsel fachgerecht entsorgt, keine Sachbeschädigung betreibt und auch ein bisschen Rücksicht auf sein Umfeld nimmt. Schliesslich ist die Haltung vieler auch ambivalent zu anderen Themen wie Autofahren und Flugreisen, bei denen eigentlich klar ist, dass sie auch schädliche Auswirkungen auf Mensch und Natur haben.
 
-![]()
+![Abbildung 6: Frankfurter Allee in Berlin nach Silvester 2015, Foto Sven Darmer]()
