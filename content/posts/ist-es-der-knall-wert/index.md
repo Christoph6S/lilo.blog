@@ -3,7 +3,7 @@ title = "Ist es der Knall wert?"
 date = "2023-04-28"
 draft = false
 pinned = false
-tags = ["Deutsch", "Reportage"]
+tags = ["Deutsch", "Reportage", "Pyrotechnik"]
 image = "bild5.jpg"
 description = "\n"
 +++
@@ -52,6 +52,57 @@ Ganz anderer Meinung ist Hanspeter Krieg. Er ist seit 5 Jahren stolzer Besitzer 
 Die meisten Feuerwerkskörper enthalten für die Detonation Schwarzpulver (Kaliumnitrat, Kohle, Schwefel). Jedoch werden bei grossen Raketen, Batterien, oder vor allem bei Gross-Feuerwerk häufig auch Blitzknallsätze verwendet, sie bestehen jeweils aus einem Oxidationsmittel (gibt Sauerstoff ab) und einem Reduktionsmittel (verbraucht den Sauerstoff). Die meistverwendete Mischung in der Pyrotechnik besteht aus Kaliumperchlorat und Aluminiumpulver. Alternativ kommen auch Magnesium und diverse Nitrate und Chlorate als Oxidationsmittel vor. (27.04.2023) in:(https://www.chemie.de/lexikon/Pyrotechnischer_Satz.html)
 Warum man teilweise Blitzknallsätze anstatt Schwarzpulver einsetzt, obwohl BKS in der Handhabung viel gefährlicher sind, liegt daran, dass Blitzknallsätze bei gleicher Menge einen viel lauteren Knall abgeben als Schwarzpulver. 
 Wie laut ein Knall ist, hängt nicht nur von der Menge des Sprengstoffs ab, sondern von der Detonationsgeschwindigkeit und der Druckanstiegsgeschwindigkeit. Je höher die beiden Parameter sind, desto lauter der Knall und umso stärker die Explosion. Schwarzpulver hat eine Detonationsgeschwindigkeit von 300-600m/s. der Blitzknallsatz dagegen eine von etwa 3000m/s und eine etwa 100-mal stärkere Druckanstiegsgeschwindigkeit.
+
+**Feuerwerksunterteilungen**
+Pyrotechnische Artikel werden in der Schweiz und den meisten anderen Ländern je nach Inhaltsstoffen, Mengen und Anwendungszwecken in unterschiedliche Kategorien eingeteilt:
+
+![]()
+
+Diese Artikel unterliegen keinerlei Beschränkungen und können frei verkauft werden. 
+
+![]()
+
+Darf nicht an Personen unter 12 Jahren abgegeben werden. Umfasst Feuerwerkskörper, die eine sehr geringe Gefahr darstellen, die einen vernachlässigbaren Lärmpegel erzeugen. Für den Verkauf ist keine Verkaufsbewilligung des entsprechenden Kantons notwendig.
+
+![]()
+
+Darf nicht an Personen unter 16 Jahren abgegeben werden. umfasst Feuerwerkskörper, die eine geringe Gefahr darstellen, die einen geringen Lärmpegel erzeugen. Für den Verkauf ist eine Verkaufsbewilligung des entsprechenden Kantons notwendig.
+
+![]()
+
+Darf nicht an Personen unter 18 Jahren abgegeben werden. Es braucht die Vorlage einer ID (Altersnachweis).  die für die Verwendung in weiten offenen Bereichen im Freien vorgesehen sind und deren Lärmpegel bei bestimmungsgemässer Verwendung die menschliche Gesundheit nicht gefährden. Für den Verkauf ist eine Verkaufsbewilligung des entsprechenden Kantons notwendig.
+
+![]()
+
+Diese Artikel sind für den gewerblichen Bereich geeignet und meistens mit elektrischem Zünder ausgestattet. Darf nicht an Personen unter 18 Jahren abgegeben werden. Es braucht die Vorlage einer ID (Altersnachweis) – Es werden keine weiteren Ausweise oder dergleichen benötigt.
+Es ist gesetzlich verboten, diese Gegenstände für andere als den vorgesehenen Zweck zu verwenden.
+
+![]()
+
+Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände haben einen bestimmten jeweiligen Verwendungszweck. Es ist gesetzlich verboten, diesen Gegenstand für andere als den vorgesehenen Zweck zu verwenden.
+
+![]()
+
+Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände ausser Feuerwerkskörper und pyrotechnische Gegenstände für die Verwendung auf Bühnen, die nur für die Handhabung oder Verwendung durch Personen mit Fachkenntnissen bestimmt sind. Für den Verkauf ist eine entsprechende Verkaufsbewilligung des Kantons notwendig. Es besteht Buchführungspflicht (auch für den Verwender).
+
+![]()
+
+Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände für zugelassenen Notsignal und Schreckschusspistolen.
+
+![]()
+
+Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände, die für die Verwendung durch Personen mit Fachkenntnissen auf Bühnen im Innen- und Aussenbereich, einschliesslich der Verwendung bei Film- und Fernsehproduktionen oder ähnlichen Verwendungen
+bestimmt sind. Für den Bezug ist ein Erwerbsschein oder eine Abbrennbewilligung nach SprstV Artikel 47 notwendig.
+Für den Verkauf ist eine entsprechende Verkaufsbewilligung des Kantons notwendig. Es besteht Buchführungspflicht
+(auch für den Verwender). 
+
+![]()
+
+Für diese Artikel benötigen Sie einen FWA-Ausweis und eine Abbrenngenehmigung oder einen Erwerbschein. Darf nicht an Personen unter 18 Jahren abgegeben werden.
+
+![]()
+
+Für diese Artikel benötigen Sie einen FWB-Ausweis und eine Abbrenngenehmigung oder einen Erwerbschein. Darf nicht an Personen unter 18 Jahren abgegeben werden.
 
 **Wird Feuerwerk bald verboten?**
 Jeweils vor und nach dem 1. August sowie um Silvester herum, wird häufig über ein generelles Feuerwerksverbot diskutiert. Aktuell läuft eine Unterschriften Sammlung für eine Volksinitiative für eine Einschränkung von Feuerwerk. In Zentren vieler Schweizer Grossstädten gilt schon länger ein Feuerwerksverbot. 
