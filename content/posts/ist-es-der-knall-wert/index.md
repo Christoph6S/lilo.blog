@@ -56,51 +56,51 @@ Wie laut ein Knall ist, hängt nicht nur von der Menge des Sprengstoffs ab, sond
 **Feuerwerksunterteilungen**
 Pyrotechnische Artikel werden in der Schweiz und den meisten anderen Ländern je nach Inhaltsstoffen, Mengen und Anwendungszwecken in unterschiedliche Kategorien eingeteilt:
 
-![]()
+![](bild1.jpg)
 
 Diese Artikel unterliegen keinerlei Beschränkungen und können frei verkauft werden. 
 
-![]()
+![](bild2.jpg)
 
 Darf nicht an Personen unter 12 Jahren abgegeben werden. Umfasst Feuerwerkskörper, die eine sehr geringe Gefahr darstellen, die einen vernachlässigbaren Lärmpegel erzeugen. Für den Verkauf ist keine Verkaufsbewilligung des entsprechenden Kantons notwendig.
 
-![]()
+![](bild3.jpg)
 
 Darf nicht an Personen unter 16 Jahren abgegeben werden. umfasst Feuerwerkskörper, die eine geringe Gefahr darstellen, die einen geringen Lärmpegel erzeugen. Für den Verkauf ist eine Verkaufsbewilligung des entsprechenden Kantons notwendig.
 
-![]()
+![](bild4.jpg)
 
 Darf nicht an Personen unter 18 Jahren abgegeben werden. Es braucht die Vorlage einer ID (Altersnachweis).  die für die Verwendung in weiten offenen Bereichen im Freien vorgesehen sind und deren Lärmpegel bei bestimmungsgemässer Verwendung die menschliche Gesundheit nicht gefährden. Für den Verkauf ist eine Verkaufsbewilligung des entsprechenden Kantons notwendig.
 
-![]()
+![](bild55.jpg)
 
 Diese Artikel sind für den gewerblichen Bereich geeignet und meistens mit elektrischem Zünder ausgestattet. Darf nicht an Personen unter 18 Jahren abgegeben werden. Es braucht die Vorlage einer ID (Altersnachweis) – Es werden keine weiteren Ausweise oder dergleichen benötigt.
 Es ist gesetzlich verboten, diese Gegenstände für andere als den vorgesehenen Zweck zu verwenden.
 
-![]()
+![](bild6.jpg)
 
 Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände haben einen bestimmten jeweiligen Verwendungszweck. Es ist gesetzlich verboten, diesen Gegenstand für andere als den vorgesehenen Zweck zu verwenden.
 
-![]()
+![](bild7.jpg)
 
 Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände ausser Feuerwerkskörper und pyrotechnische Gegenstände für die Verwendung auf Bühnen, die nur für die Handhabung oder Verwendung durch Personen mit Fachkenntnissen bestimmt sind. Für den Verkauf ist eine entsprechende Verkaufsbewilligung des Kantons notwendig. Es besteht Buchführungspflicht (auch für den Verwender).
 
-![]()
+![](bild8.png)
 
 Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände für zugelassenen Notsignal und Schreckschusspistolen.
 
-![]()
+![](bild9.jpg)
 
 Darf nicht an Personen unter 18 Jahren abgegeben werden. Pyrotechnische Gegenstände, die für die Verwendung durch Personen mit Fachkenntnissen auf Bühnen im Innen- und Aussenbereich, einschliesslich der Verwendung bei Film- und Fernsehproduktionen oder ähnlichen Verwendungen
 bestimmt sind. Für den Bezug ist ein Erwerbsschein oder eine Abbrennbewilligung nach SprstV Artikel 47 notwendig.
 Für den Verkauf ist eine entsprechende Verkaufsbewilligung des Kantons notwendig. Es besteht Buchführungspflicht
 (auch für den Verwender). 
 
-![]()
+![](bild10.jpg)
 
 Für diese Artikel benötigen Sie einen FWA-Ausweis und eine Abbrenngenehmigung oder einen Erwerbschein. Darf nicht an Personen unter 18 Jahren abgegeben werden.
 
-![]()
+![](bild11.jpg)
 
 Für diese Artikel benötigen Sie einen FWB-Ausweis und eine Abbrenngenehmigung oder einen Erwerbschein. Darf nicht an Personen unter 18 Jahren abgegeben werden.
 
